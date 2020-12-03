@@ -1,0 +1,2 @@
+This is the version 3 of the directory.
+This folder is all about git version control.
